@@ -1,4 +1,4 @@
-# 📌 Project Rough Description 
+# 📌 Project Rough Description
 
 ## 🌐 Navigation Bar
 
@@ -36,6 +36,10 @@ A **Generative AI-powered conversational assistant** designed to help Indian cit
   * Chatbot **reads and summarizes** the document.
   * Provides **simplified explanation** using pointers.
   * Detects **hidden charges, flaws, accusations, risks**.
+* **Clause-wise Explanation**:
+
+  * Chatbot breaks down **individual clauses** in legal documents (e.g., rental agreements, loan contracts, terms of service, privacy policies).
+  * Provides **easy-to-understand explanations** for each clause, highlighting its meaning and possible impact on the user.
 * **User Knowledge Check**:
 
   * User provides a **self-description of knowledge** about the document.
