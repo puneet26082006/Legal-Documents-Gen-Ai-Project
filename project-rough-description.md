@@ -143,6 +143,15 @@ Displays the various services provided by the system.
 
 ---
 
+## 💻 Programming Languages & Frameworks  
+- **React JS** – Frontend library for building UI.  
+- **Next JS** – Framework for server-side rendering & routing.  
+- **Tailwind CSS** – Utility-first CSS framework for styling.  
+- **TypeScript** – Adds type safety to JavaScript.  
+- **Python** – Backend logic, AI integration, and APIs.  
+
+---
+
 ## ✨ Tool-to-Feature Mapping (Quick Reference)  
 
 | Tool | Used For | Location in System |  
